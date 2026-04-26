@@ -2,7 +2,7 @@
 
 A [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)) code-breaking game for your terminal, built with [Ratatui](https://ratatui.rs/).
 
-`
+``
   ┌─────────┬────────┐
   │ ? ? ? ? │  N  X  │
   ├─────────┼────────┤
@@ -15,7 +15,7 @@ A [Mastermind](https://en.wikipedia.org/wiki/Mastermind_(board_game)) code-break
   │ 2 3 4 5 │  2  0  │
   │ 1 2 3 4 │  1  0  │
   └─────────┴────────┘
-`
+``
 
 ---
 
@@ -40,14 +40,14 @@ Use the clues to narrow down the secret code, one guess at a time.
 
 ### Example Round
 
-`
+``
  ? ? ? ?    N  X
 ─────────┬───────
  - - - - │  -  -
  1 2 3 4 │  1  1
  2 3 4 5 │  2  1
 
-`
+``
 
 In this example:
 - Your first guess `2 3 4 5` had **2** digits in the right place and **1** in the right digit, wrong place.
