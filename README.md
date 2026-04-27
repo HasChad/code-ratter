@@ -36,10 +36,10 @@ After each guess, you'll see two columns of feedback:
 **N** Number of digits that are correct but in the **wrong** position
 **X** Number of digits that are correct **and** in the correct position
 
-**1 - 6** to put number on current guess
-**Backspace** to remove previous number
-
 Use the clues to narrow down the secret code, one guess at a time.
+
+**1 - 6** to put number on current guess  
+**Backspace** to remove previous number
 
 ### Example Round
 
