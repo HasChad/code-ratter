@@ -33,7 +33,7 @@ The game generates a secret sequence of digits from 1 to 6. Your goal is to gues
 
 After each guess, you'll see two columns of feedback:
 
-**N** Number of digits that are correct but in the **wrong** position
+**N** Number of digits that are correct but in the **wrong** position  
 **X** Number of digits that are correct **and** in the correct position
 
 Use the clues to narrow down the secret code, one guess at a time.
